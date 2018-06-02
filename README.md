@@ -1,6 +1,5 @@
-# Bootstrap 4 Theme Starter Pack
-A blank template for quickly getting started with a Bootstrap 4 theme design
-This is based on [This Coursetro Course][2]
+# BootstrapMono
+A simple monochromatic Bootstrap 4 theme
 
 ## Peview
 A preview of the site can be found here [here][1]
@@ -15,5 +14,4 @@ A preview of the site can be found here [here][1]
 ```
 > gulp
 ```
-[1]: https://nabeelvalley.github.io/BS4ThemeStarter/
-[2]: https://coursetro.com/posts/code/130/Learn-Bootstrap-4-Final-in-2018-with-our-Free-Crash-Course
+[1]: https://nabeelvalley.github.io/BootstrapMono/
