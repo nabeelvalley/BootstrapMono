@@ -39,3 +39,8 @@ $alert-color-level: 10;
 .disabled {
   text-decoration: line-through !important;
 } 
+
+.nav-tabs .nav-link.active {
+  border-bottom: solid 2px;
+  border-color: transparent transparent $black transparent;
+}
