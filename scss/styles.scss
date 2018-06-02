@@ -1,14 +1,41 @@
-// Variable Overrides 
-// $body-bg: #ffffff;
+// Variables
+// Global
+$theme-colors: (
+  "primary": #000000
+);
 
-// $theme-colors: (
-//   "primary": #000000
-// );
+// $primary: $blue !default;
+// $secondary: $gray-600 !default;
+// $success: $green !default;
+// $info: $cyan !default;
+// $warning: $yellow !default;
+// $danger: $red !default;
+// $light: $gray-100 !default;
+// $dark: $gray-800 !default;
 
-// .jumbotron {
-//     background-color: #ffffff !important;
-//     border-top: rgb(219,219,219);
-// }
+$border-radius: 0;
+$border-radius-lg: 0;
+$border-radius-sm: 0;
+$border-width: 1.5px;
+
+// Alert
+$alert-border-level: -3;
+$alert-color-level: 10;
 
 // Bootstrap Sass Imports
 @import "node_modules/bootstrap/scss/bootstrap";
+
+// Classes
+.alert {
+  background-color: $white;
+  color: $gray-900;
+}
+
+.card-body {
+  background-color: $white;
+  color: $gray-900;
+}
+
+.disabled {
+  text-decoration: line-through !important;
+} 
