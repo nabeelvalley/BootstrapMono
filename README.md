@@ -2,7 +2,7 @@
 A simple monochromatic Bootstrap 4 theme based on [This Template][2]
 
 ## Peview
-A preview of the site can be found here [here][1]
+A preview of the theme can be found here [here][1]
 
 ## Getting Started
 ### Install Dependencies
