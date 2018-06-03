@@ -1,8 +1,6 @@
 // Variables
 // Global
-$theme-colors: (
-  "primary": #000000
-);
+$theme-colors: ("primary": #000000);
 
 // $primary: $blue !default;
 // $secondary: $gray-600 !default;
@@ -37,10 +35,14 @@ $alert-color-level: 10;
 }
 
 .disabled {
-  text-decoration: line-through !important;
-} 
+	text-decoration: line-through !important;
+}
 
 .nav-tabs .nav-link.active {
   border-bottom: solid 2px;
   border-color: transparent transparent $black transparent;
+}
+
+.btn-text {
+  border-width: 0 !important;
 }
